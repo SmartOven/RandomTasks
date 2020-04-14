@@ -21,6 +21,6 @@
 * Week 3:
 * Week 4:
 * Week 5:
-### Tasks from (codeforces.com)[https://codeforces.com/]:
+### Tasks from [codeforces.com](https://codeforces.com/):
 * Easy:
   + [Neformals](https://github.com/SmartOven/RandomTasks/tree/master/Neformals)
