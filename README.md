@@ -1,5 +1,5 @@
 # RandomTasks
-Tasks from [leetcode](https://leetcode.com/):
+### Tasks from [leetcode.com](https://leetcode.com/):
 * Week 1:
   + Single Number
   + Happe Number
@@ -19,3 +19,5 @@ Tasks from [leetcode](https://leetcode.com/):
 * Week 3:
 * Week 4:
 * Week 5:
+### Tasks from [codeforces.com](https://codeforces.com/):
+* Neformals
