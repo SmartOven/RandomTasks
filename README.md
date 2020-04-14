@@ -1,5 +1,5 @@
 # RandomTasks
-Tasks from (leetcode)[https://leetcode.com/]:
+Tasks from [leetcode](https://leetcode.com/):
 * Week 1:
   + Single Number
   + Happe Number
