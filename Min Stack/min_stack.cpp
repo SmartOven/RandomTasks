@@ -6,9 +6,9 @@ template <class T>
 class MinStack {
 public:
     MinStack() = default;
-	MinStack(std::vector <T>& v) {
+    MinStack(std::vector <T>& v) {
         this->build(v);
-	}
+    }
     ~MinStack() = default;
     void push(T x) {
         if (this->st_.empty()) {
