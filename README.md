@@ -19,6 +19,7 @@
   + [Contiguous Array](https://github.com/SmartOven/RandomTasks/tree/master/Contiguous%20Array) - Medium difficulty!
   + [Perform String Shifts](https://github.com/SmartOven/RandomTasks/tree/master/Perform%20String%20Shifts)
 * Week 3:
+  + [Product of Array Except Self](https://github.com/SmartOven/RandomTasks/tree/master/Product%20of%20Array%20Except%20Self)
 * Week 4:
 * Week 5:
 ### Tasks from [codeforces.com](https://codeforces.com/):
