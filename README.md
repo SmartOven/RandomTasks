@@ -16,7 +16,7 @@
   + [Min Stack](https://github.com/SmartOven/RandomTasks/tree/master/Min%20Stack)
   + `[Diameter of Binary Tree]()` - not done yet
   + [Last Stone Weight](https://github.com/SmartOven/RandomTasks/tree/master/Last%20Stone%20Weight)
-  + `[Contiguous Array]()` - not done yet
+  + [Contiguous Array](https://github.com/SmartOven/RandomTasks/tree/master/Contiguous%20Array)
   + [Perform String Shifts](https://github.com/SmartOven/RandomTasks/tree/master/Perform%20String%20Shifts)
 * Week 3:
 * Week 4:
