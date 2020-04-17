@@ -11,28 +11,26 @@ public:
 		std::vector <char> symbols(n);
 		std::stack <int> breaks;
 		std::stack <int> stars;
-		for (size_t i = 0; i < n; i++)
-			symbols[i] = s[i];
-    	for (int i = 0; i < n; i++) {
-			if (symbols[i] == '(')
-				breaks.push(i);
-			if (symbols[i] == '*')
-				stars.push(i);
-			if (symbols[i] == ')')
-				if (!breaks.empty())
-					breaks.pop();
-				else if (!stars.empty())
-					stars.pop();
-				else
+		for (int i = 0; i < n; i++) {
+				if (s[i] == '(')
+					breaks.push(i);
+				if (s[i] == '*')
+					stars.push(i);
+				if (s[i] == ')')
+					if (!breaks.empty())
+						breaks.pop();
+					else if (!stars.empty())
+						stars.pop();
+					else
+						return false;
+		}
+		while (!stars.empty() && !breaks.empty()) {
+				if (breaks.top() > stars.top()) {
 					return false;
-    	}
-    	while (!stars.empty() && !breaks.empty()) {
-			if (breaks.top() > stars.top()) {
-				return false;
-			}
-			stars.pop();
-			breaks.pop();
-    	}
+				}
+				stars.pop();
+				breaks.pop();
+		}
 		if (!breaks.empty())
 			return false;
 		return true;
