@@ -20,6 +20,7 @@
   + [Perform String Shifts](https://github.com/SmartOven/RandomTasks/tree/master/Perform%20String%20Shifts)
 * Week 3:
   + [Product of Array Except Self](https://github.com/SmartOven/RandomTasks/tree/master/Product%20of%20Array%20Except%20Self)
+  + [Valid Parenthesis String](https://github.com/SmartOven/RandomTasks/tree/master/Valid%20Parenthesis%20String)
 * Week 4:
 * Week 5:
 ### Tasks from [codeforces.com](https://codeforces.com/):
