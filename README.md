@@ -1,7 +1,7 @@
 # RandomTasks
 ### Tasks from [leetcode.com](https://leetcode.com/):
 * Medium:
-  + [3Sum](https://github.com/SmartOven/RandomTasks/tree/master/Threeplets)
+  + [3Sum](https://github.com/SmartOven/RandomTasks/tree/master/Threeplets) - Time Limit on test 311 out of 313
 * Week 1:
   + [Single Number](https://github.com/SmartOven/RandomTasks/tree/master/Single%20Number)
   + `[Happy Number]()` - not done yet
