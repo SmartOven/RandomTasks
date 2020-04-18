@@ -8,6 +8,7 @@ using std::string;
 class Solution {
 public:
 	bool backspaceCompare(string S, string T) {
+		// Solved on 2 stacks
 		std::stack <char> St1, St2;
 		for (char i : S) {
 			if (i == '#') {
