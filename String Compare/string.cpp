@@ -7,9 +7,9 @@ using std::string;
 
 class Solution {
 public:
-    bool backspaceCompare(string S, string T) {
+	bool backspaceCompare(string S, string T) {
 		std::stack <char> St1, St2;
-    	for (char i : S) {
+		for (char i : S) {
 			if (i == '#') {
 				if (!St1.empty())
 					St1.pop();
@@ -17,7 +17,7 @@ public:
 			else {
 				St1.push(i);
 			}
-    	}
+		}
 		for (char i : T) {
 			if (i == '#') {
 				if (!St2.empty())
@@ -27,18 +27,16 @@ public:
 				St2.push(i);
 			}
 		}
-    	while (!St1.empty()) {
-			if (!St2.empty()) {
-				if (St1.top() != St2.top())
-					return false;
-				St1.pop();
-				St2.pop();
-			}
-			else
+		while (!St1.empty() && !St2.empty()) {
+			if (St1.top() != St2.top())
 				return false;
-    	}
+			St1.pop();
+			St2.pop();
+		}
+		if (!St1.empty() || !St2.empty())
+			return false;
 		return true;
-    }
+	}
 };
 
 int main() {
