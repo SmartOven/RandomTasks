@@ -4,12 +4,12 @@
   + [3Sum](https://github.com/SmartOven/RandomTasks/tree/master/Threeplets) - Time Limit on test 311 out of 313 :(
 * Week 1:
   + [Single Number](https://github.com/SmartOven/RandomTasks/tree/master/Single%20Number)
-  + `[Happy Number]()` - not done yet
+  + [Happy Number](https://github.com/SmartOven/RandomTasks/tree/master/Happy%20Number)
   + `[Maximum Subarray]()` - not done yet
   + [Move Zeroes](https://github.com/SmartOven/RandomTasks/tree/master/Moving%20zeroes)
   + [Best Time to Buy and Sell Stock II](https://github.com/SmartOven/RandomTasks/tree/master/Stonks)
   + [Group Anagrams](https://github.com/SmartOven/RandomTasks/tree/master/Anagrams)
-  + `[Counting Elements]()` - not done yet
+  + [Counting Elements](https://github.com/SmartOven/RandomTasks/tree/master/Counting%20Elements)
 * Week 2:
   + [Middle of the Linked List](https://github.com/SmartOven/RandomTasks/tree/master/Middle%20of%20List)
   + [Backspace String Compare](https://github.com/SmartOven/RandomTasks/tree/master/String%20Compare)
