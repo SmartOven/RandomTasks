@@ -23,6 +23,7 @@
   + [Valid Parenthesis String](https://github.com/SmartOven/RandomTasks/tree/master/Valid%20Parenthesis%20String)
   + [Number of Islands](https://github.com/SmartOven/RandomTasks/tree/master/Number%20of%20Islands)
   + [Minimum Path Sum](https://github.com/SmartOven/RandomTasks/tree/master/Minimum%20Path%20Sum)
+  + [Search in Rotated Sorted Array](https://github.com/SmartOven/RandomTasks/tree/master/Search%20in%20Rotated%20Sorted%20Array)
 * Week 4:
 * Week 5:
 ### Tasks from [codeforces.com](https://codeforces.com/):
