@@ -5,7 +5,7 @@
 * Week 1:
   + [Single Number](https://github.com/SmartOven/RandomTasks/tree/master/Single%20Number)
   + [Happy Number](https://github.com/SmartOven/RandomTasks/tree/master/Happy%20Number)
-  + `[Maximum Subarray]()` - not done yet
+  + [Maximum Subarray](https://github.com/SmartOven/RandomTasks/tree/master/Maximum%20Subarray)
   + [Move Zeroes](https://github.com/SmartOven/RandomTasks/tree/master/Moving%20zeroes)
   + [Best Time to Buy and Sell Stock II](https://github.com/SmartOven/RandomTasks/tree/master/Stonks)
   + [Group Anagrams](https://github.com/SmartOven/RandomTasks/tree/master/Anagrams)
