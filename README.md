@@ -14,7 +14,7 @@
   + [Middle of the Linked List](https://github.com/SmartOven/RandomTasks/tree/master/Middle%20of%20List)
   + [Backspace String Compare](https://github.com/SmartOven/RandomTasks/tree/master/String%20Compare)
   + [Min Stack](https://github.com/SmartOven/RandomTasks/tree/master/Min%20Stack)
-  + `[Diameter of Binary Tree]()` - not done yet
+  + [Diameter of Binary Tree](https://github.com/SmartOven/RandomTasks/tree/master/Diameter%20of%20Binary%20Tree)
   + [Last Stone Weight](https://github.com/SmartOven/RandomTasks/tree/master/Last%20Stone%20Weight)
   + [Contiguous Array](https://github.com/SmartOven/RandomTasks/tree/master/Contiguous%20Array) - Medium difficulty!
   + [Perform String Shifts](https://github.com/SmartOven/RandomTasks/tree/master/Perform%20String%20Shifts)
@@ -24,6 +24,7 @@
   + [Number of Islands](https://github.com/SmartOven/RandomTasks/tree/master/Number%20of%20Islands)
   + [Minimum Path Sum](https://github.com/SmartOven/RandomTasks/tree/master/Minimum%20Path%20Sum)
   + [Search in Rotated Sorted Array](https://github.com/SmartOven/RandomTasks/tree/master/Search%20in%20Rotated%20Sorted%20Array)
+  + [Construct Binary Search Tree from Preorder Traversal](https://github.com/SmartOven/RandomTasks/tree/master/Construct%20Binary%20Search%20Tree)
 * Week 4:
 * Week 5:
 ### Tasks from [codeforces.com](https://codeforces.com/):
