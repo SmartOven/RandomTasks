@@ -25,8 +25,23 @@
   + [Minimum Path Sum](https://github.com/SmartOven/RandomTasks/tree/master/Minimum%20Path%20Sum)
   + [Search in Rotated Sorted Array](https://github.com/SmartOven/RandomTasks/tree/master/Search%20in%20Rotated%20Sorted%20Array)
   + [Construct Binary Search Tree from Preorder Traversal](https://github.com/SmartOven/RandomTasks/tree/master/Construct%20Binary%20Search%20Tree)
+  + `[Leftmost Column with at Least a One]()` - not uploaded yet
 * Week 4:
+  + `[Subarray Sum Equals K]()` - not uploaded yet
+  + `[Bitwise AND of Numbers Range]()` - not uploaded yet
+  + `[LRU Cache]()` - not uploaded yet
+  + `[Jump Game]()` - not uploaded yet
+  + `[]()` - not uploaded yet
+  + `[]()` - not uploaded yet
+  + `[]()` - not uploaded yet
 * Week 5:
+  + `[]()` - not uploaded yet
+  + `[]()` - not uploaded yet
+  + `[]()` - not uploaded yet
+  + `[]()` - not uploaded yet
+  + `[]()` - not uploaded yet
+  + `[]()` - not uploaded yet
+  + `[]()` - not uploaded yet
 ### Tasks from [codeforces.com](https://codeforces.com/):
 * Easy:
   + [Neformals](https://github.com/SmartOven/RandomTasks/tree/master/Neformals)
